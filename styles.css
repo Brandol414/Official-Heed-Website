@@ -195,7 +195,7 @@ p {
     content: "";
     position: absolute;
     top: 0; left: 0; right: 0; bottom: 0;
-    background: url("Research-magnifying-glass_0.jpg") center/cover no-repeat fixed;
+    background: url("../Research-magnifying-glass_0.jpg") center/cover no-repeat fixed;
     filter: brightness(0.4) blur(6px);
     z-index: -1; /* ensures it's behind the text */
 }
@@ -1529,3 +1529,4 @@ p {
     }
 
 }
+
